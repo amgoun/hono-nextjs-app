@@ -6,16 +6,15 @@ Why Use Hono with Next.js?
 
 Hono is a minimal, fast, and simple web framework that seamlessly integrates with Next.js. By using Hono, you can:
 
-    Improve API performance: Hono's lightweight nature ensures faster response times.
-    Modularize your backend: Separate your API logic from the Next.js routing system for better maintainability.
-    Enhanced developer experience: Hono's intuitive syntax makes it easier to build and manage API routes.
+Improve API performance: Hono's lightweight nature ensures faster response times.
+Modularize your backend: Separate your API logic from the Next.js routing system for better maintainability.
+Enhanced developer experience: Hono's intuitive syntax makes it easier to build and manage API routes.
 
 Getting Started
 
 First, run the development server:
 
-bash
-
+```bash
 npm run dev
 # or
 yarn dev
@@ -23,6 +22,7 @@ yarn dev
 pnpm dev
 # or
 bun dev
+```
 
 Open http://localhost:3000 with your browser to see the result.
 
@@ -31,8 +31,8 @@ Learn More
 
 To learn more about Next.js and Hono, check out the following resources:
 
-    Next.js Documentation - Learn about Next.js features and API.
-    Hono Documentation - Get started with Hono and learn how to build powerful APIs.
+  - Next.js Documentation - Learn about Next.js features and API.
+  - Hono Documentation - Get started with Hono and learn how to build powerful APIs.
 
 Deploy on Vercel
 
